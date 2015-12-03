@@ -1,0 +1,2 @@
+/home/dennisdoc/git/canvasApp/platforms/android/build/intermediates/classes/debug
+/home/dennisdoc/git/canvasApp/platforms/android/build/intermediates/pre-dexed/debug/classes-443bbc0d3d82498fe44684ef4dd0b95f57327074.jar

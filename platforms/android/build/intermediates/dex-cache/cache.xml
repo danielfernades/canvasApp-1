@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dennisdoc/git/canvasApp/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0335c833f376ec3d8770da7d1e99f743e76861f2">
+        <dex dex="/home/dennisdoc/git/canvasApp/platforms/android/build/intermediates/pre-dexed/debug/classes-443bbc0d3d82498fe44684ef4dd0b95f57327074.jar" />
+    </item>
+
+</items>
